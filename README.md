@@ -1,4 +1,3 @@
-myfirst
-=======
+myfirst =======
 
 my first repository
